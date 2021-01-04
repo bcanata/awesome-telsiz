@@ -15,7 +15,7 @@ Uygulama | Açıklama
 
 ## Ben Kimim? 
 
-**TA1ANW** çağrı kodu ile yakın zamanda amatör telsizciliğe başladım. Bana ait diğer kaynaklar için aşağıdaki interet sitelerini ziyaret edebilirsiniz.  
+**TA1ANW** çağrı kodu ile yakın zamanda amatör telsizciliğe başladım. Bana ait diğer kaynaklar için aşağıdaki internet sitelerini ziyaret edebilirsiniz.  
 
  - Youtube: [Buğra Hoca](https://www.youtube.com/channel/UCAhzhgIOmzY317fisHEsPXg)
  - Kişisel Sayfam [(İngilizce)](https://bugracanata.com.tr)
