@@ -1,6 +1,6 @@
 ![Awesome Radio](awesome_telsiz.png)
 
-# [Awesome Radio](https://github.com/bcanata/awesome-telsiz) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fbcanata%2Fawesome-telsiz&via=bugrahoca&text=Awesome-Telsiz&hashtags=ta1anw)
+# [Awesome Telsiz](https://github.com/bcanata/awesome-telsiz) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fbcanata%2Fawesome-telsiz&via=bugrahoca&text=Awesome-Telsiz&hashtags=ta1anw)
 
 *Amatör Telsiz konusunda çeşitli yararlı kaynaklar**
 
