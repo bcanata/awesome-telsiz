@@ -11,13 +11,9 @@ Siz de katkıda bulunabilirsiniz!
 Uygulama | Açıklama
 ---- | ----
 [Amatör Telsizcilik Sınavı](https://play.google.com/store/apps/details?id=ist.nitrogen.amatortelsizcilik) 			| Amatör Telsizcilik sınavına hazırlanmak için kullanışlı bir uygulama.
+[Amatör Telsizcilik Sınavı](https://play.google.com/store/apps/details?id=com.baybar.amatortelsiz) 			| Amatör Telsizcilik sınavına hazırlanmak için kullanışlı başka bir uygulama.
+[Amatör Telsizcilik Sınavı, Sınava Hazırlık](https://play.google.com/store/apps/details?id=com.inomob.amatortelsizcilik) 			| Amatör Telsizcilik sınavına hazırlanmak için kullanışlı başka bir uygulama.
+[Amatör Telsiz Sınavı](https://play.google.com/store/apps/details?id=com.amatortelsiz.sinavi) 			| Amatör Telsizcilik sınavına hazırlanmak için kullanışlı başka bir uygulama.
 [Look4Sat](https://play.google.com/store/apps/details?id=com.rtbishop.look4sat&hl=en_US&gl=US) 			| Uydu geçişlerini listeleyip, verici frekans bilgileri ile veriyor.
 
-## Ben Kimim? 
 
-**TA1ANW** çağrı kodu ile yakın zamanda amatör telsizciliğe başladım. Bana ait diğer kaynaklar için aşağıdaki internet sitelerini ziyaret edebilirsiniz.  
-
- - Youtube: [Buğra Hoca](https://www.youtube.com/channel/UCAhzhgIOmzY317fisHEsPXg)
- - Kişisel Sayfam [(İngilizce)](https://bugracanata.com.tr)
- - Twitter: [@bugrateacher](https://twitter.com/bugrateacher)
- - Facebook: [Buğra CANATA](https://www.facebook.com/canata)
