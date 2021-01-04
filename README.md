@@ -18,6 +18,6 @@ Uygulama | Açıklama
 **TA1ANW** çağrı kodu ile yakın zamanda amatör telsizciliğe başladım. Bana ait diğer kaynaklar için aşağıdaki interet sitelerini ziyaret edebilirsiniz.  
 
  - Youtube: [Buğra Hoca](https://www.youtube.com/channel/UCAhzhgIOmzY317fisHEsPXg)
- - İngilizce Özgeçmiş: https://bugracanata.com.tr
+ - Kişisel Sayfam [(İngilizce)](https://bugracanata.com.tr)
  - Twitter: [@bugrateacher](https://twitter.com/bugrateacher)
  - Facebook: [Buğra CANATA](https://www.facebook.com/canata)
