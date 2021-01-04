@@ -14,6 +14,8 @@ Uygulama | Açıklama
 [Amatör Telsizcilik Sınavı](https://play.google.com/store/apps/details?id=com.baybar.amatortelsiz) 			| Amatör Telsizcilik sınavına hazırlanmak için kullanışlı başka bir uygulama.
 [Amatör Telsizcilik Sınavı, Sınava Hazırlık](https://play.google.com/store/apps/details?id=com.inomob.amatortelsizcilik) 			| Amatör Telsizcilik sınavına hazırlanmak için kullanışlı başka bir uygulama.
 [Amatör Telsiz Sınavı](https://play.google.com/store/apps/details?id=com.amatortelsiz.sinavi) 			| Amatör Telsizcilik sınavına hazırlanmak için kullanışlı başka bir uygulama.
+[Amatör Telsiz Portalı](https://play.google.com/store/apps/details?id=com.efelerteknoloji.hamradio) 			| amatortelsiz.com.tr'nin Android uygulaması.
+[EchoLink](https://play.google.com/store/apps/details?id=org.echolink.android) 			| İnternet üzerinden EchoLink rölelerine bağlanmanızı sağlıyor.
 [Look4Sat](https://play.google.com/store/apps/details?id=com.rtbishop.look4sat&hl=en_US&gl=US) 			| Uydu geçişlerini listeleyip, verici frekans bilgileri ile veriyor.
 
 
