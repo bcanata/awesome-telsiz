@@ -12,6 +12,7 @@ Bağlantı | Açıklama
 ---- | ----
 [Kıyı Emniyeti Çağrı İşareti Sorgulama](http://www.kiyiemniyeti.gov.tr/ehizmetler/telsiz_cagri_isareti_sorgula) 			| Türkiye'deki tek resmi çağrı işareti kaynağı. Özellikle Amatör Telsizcilik Belgeleri 10 yılda bir yenilendiğinden, çağrı işaretinin aktif olup olmadığını da buradan kontrol edebilirsiniz.
 [TA Callbook](http://www.tacallbook.org/call.shtml) 			| 1991'den beri yayın hayatına devam eden, Türkiye'deki çağrı kodları için en büyük veritabanlarından birisi.
+[amatortelsiz.com.tr QRZ](https://qrz.amatortelsiz.com.tr/) 			| amatortelsiz.com.tr'nin yeni hayata geçirdiği callbook projesi. Diğer sitelere göre daha kapsamlı bilgilere yer verilebiliyor.
 
 
 ## Android Uygulamaları
