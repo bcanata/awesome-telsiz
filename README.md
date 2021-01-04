@@ -6,6 +6,14 @@
 
 Siz de katkıda bulunabilirsiniz!
 
+## QRZ - Callbook - Çağrı Kodu Veritabanları
+
+Bağlantı | Açıklama
+---- | ----
+[Kıyı Emniyeti Çağrı İşareti Sorgulama](http://www.kiyiemniyeti.gov.tr/ehizmetler/telsiz_cagri_isareti_sorgula) 			| Türkiye'deki tek resmi çağrı işareti kaynağı. Özellikle Amatör Telsizcilik Belgeleri 10 yılda bir yenilendiğinden, çağrı işaretinin aktif olup olmadığını da buradan kontrol edebilirsiniz.
+[TA Callbook](http://www.tacallbook.org/) 			| 1991'den beri yayın hayatına devam eden, Türkiye'deki çağrı kodları için en büyük veritabanlarından birisi.
+
+
 ## Android Uygulamaları
 
 Uygulama | Açıklama
@@ -17,5 +25,7 @@ Uygulama | Açıklama
 [Amatör Telsiz Portalı](https://play.google.com/store/apps/details?id=com.efelerteknoloji.hamradio) 			| amatortelsiz.com.tr'nin Android uygulaması.
 [EchoLink](https://play.google.com/store/apps/details?id=org.echolink.android) 			| İnternet üzerinden EchoLink rölelerine bağlanmanızı sağlıyor.
 [Look4Sat](https://play.google.com/store/apps/details?id=com.rtbishop.look4sat&hl=en_US&gl=US) 			| Uydu geçişlerini listeleyip, verici frekans bilgileri ile veriyor.
+
+
 
 
