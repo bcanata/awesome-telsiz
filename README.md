@@ -32,11 +32,19 @@ Uygulama | Açıklama
 Bağlantı | Açıklama
 ---- | ----
 
+## Gruplar / Botlar
+Bağlantı | Açıklama
+---- | ----
+[Amatör Telsiz Mutfak](https://t.me/amatortelsiztr) | amatortelsiz.com.tr'nin amatör telsizcilik ile ilgili konuların konuşulduğu Telegram grubu.
+[Amatör Telsizcilik](https://t.me/AmatorTelsiz) | Başka bir Telegram grubu.
+[QRV73.com TOPLULUK](https://t.me/qrv73topluluk) | QRV73.com'a ait Telegram sohbet grubu.
+[@UyducuBot](https://t.me/uyducubot) | Amatör telsiz rölesi taşıyan uyduları takip edebilmek için kullanabileceğiniz Telegram botu. Bot ile konum paylaştığınızda, konumun üzerinden 24 saat içerisinde geçecek olan uyduları gönderir.
+
 
 ## Çeşitli
 Bağlantı | Açıklama
 ---- | ----
-[Sigidwiki](https://www.sigidwiki.com/)  			| Çeşitli frekanslardan gelen ses ve görüntüleri tanımlama ile ilgili bilgileri içeren wiki sayfası.
+[Sigidwiki](https://www.sigidwiki.com/) | Çeşitli frekanslardan gelen ses ve görüntüleri tanımlama ile ilgili bilgileri içeren wiki sayfası.
 
 
 
