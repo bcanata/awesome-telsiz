@@ -1,6 +1,6 @@
 ![Awesome Telsiz](awesome_telsiz.png)
 
-# [Awesome Telsiz](https://github.com/bcanata/awesome-telsiz) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fbcanata%2Fawesome-telsiz&via=bugrahoca&text=Awesome-Telsiz&hashtags=ta1anw)
+# [Awesome Telsiz](https://github.com/bcanata/awesome-telsiz) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fbcanata%2Fawesome-telsiz&via=bugrahoca&text=Awesome-Telsiz&hashtags=TA1JS)
 
 **Amatör Telsiz konusunda çeşitli yararlı kaynaklar**
 *Katkılarınızı bekliyoruz – pull request gönderin!*
@@ -95,4 +95,4 @@
 3. Eklediğiniz kaynağın **açıklama** sütununu doldurun – boş bırakılan satırlar PR’da reddedilir.
 4. Telif hakkı ve lisans ihlallerinden lütfen kaçının.
 
-> **73 de TA1ANW / YM1KTC** – Açık kaynak paylaşıldıkça güzeldir!
+> **73 de TA1JS / YM1KTC** – Açık kaynak paylaşıldıkça güzeldir!
