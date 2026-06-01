@@ -13,9 +13,9 @@
 | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Kıyı Emniyeti Çağrı İşareti Sorgulama](http://www.kiyiemniyeti.gov.tr/ehizmetler/telsiz_cagri_isareti_sorgula) | Türkiye’deki tek **resmî** çağrı işareti kaynağı. Belgeler 10 yılda bir yenilendiği için çağrı işaretinin hâlâ aktif olup olmadığını buradan kontrol edebilirsiniz. |
 | [TA Callbook](http://www.tacallbook.org/call.shtml)                                                             | 1991’den beri yayında; Türkiye’deki çağrı işaretleri için en eski ve en geniş özel veritabanlarından.                                                               |
-| [amatortelsiz.com.tr QRZ](https://qrz.amatortelsiz.com.tr/)                                                     | amatortelsiz.com.tr’nin yeni callbook projesi. Operatörlere dair **iletişim bilgileri** ve ekipman notları da ekleyebiliyorsunuz.                                   |
 | [HamQTH](https://www.hamqth.com/)                                                                               | Ücretsiz, küresel callbook hizmeti; hızlı XML API’si ile günlük (log) yazılımları tarafından sıkça kullanılır.                                                      |
 | [QRZ.com](https://www.qrz.com/)                                                                                 | Dünyanın en büyük callbook veritabanı. Kapsamlı Logbook özelliği de sunar.                                                                                          |
+| [QRZ.com.tr](https://www.qrz.com.tr/) | 2002’den beri yayında olan Türkiye çağrı işareti veritabanı; kişisel sayfalar, forum ve ikinci el ekipman pazarı da sunar. |
 
 ---
 
@@ -29,6 +29,10 @@
 | [EchoLink](https://play.google.com/store/apps/details?id=org.echolink.android)                                            | İnternet üzerinden EchoLink rölelerine bağlanmanızı sağlar.                                        |
 | [Look4Sat](https://play.google.com/store/apps/details?id=com.rtbishop.look4sat&hl=en_US&gl=US)                            | Amatör uyduları gerçek zamanlı izler, frekans listeleri sunar.                                     |
 | [W1ANT Satellite Tracker](https://play.google.com/store/apps/details?id=com.coolprimes.sattrack)                          | Görülebilir uydu geçişlerini 24 saatlik liste hâlinde gösterir.                                    |
+| [APRSdroid](https://play.google.com/store/apps/details?id=org.aprsdroid.app) | Telefonunuzu APRS istasyonuna çevirir; konum gönderme, mesajlaşma ve harita görüntüleme. |
+| [DroidStar](https://play.google.com/store/apps/details?id=org.dudetronics.droidstar) | Telsiz olmadan telefondan DMR, D-STAR, Fusion (YSF), P25 ve NXDN dijital ağlarına bağlanın. |
+| [SDR Touch](https://play.google.com/store/apps/details?id=marto.androsdr2) | RTL-SDR donanımıyla telefon/tablette canlı SDR alıcı; HF/UHF dinleme. |
+| [RF Analyzer](https://play.google.com/store/apps/details?id=com.mantz_it.rfanalyzer) | RTL-SDR ile gerçek zamanlı spektrum ve şelale (waterfall) analizörü. |
 
 ---
 
@@ -64,6 +68,8 @@
 | [TAMAD – Tüm Telsiz Amatörleri Derneği](https://www.tamad.org.tr/)                        | İstanbul merkezli; düzenli HF/anten eğitim günleri ve sınav seminerleri.                       |
 | [AKRAD – Anadolu Kesintisiz İletişim Radyo Amatörleri Derneği](https://www.akrad.org.tr/) | Ankara merkezli; üniversite iş birlikleriyle amatör telsiz farkındalık seminerleri düzenler.   |
 | [TA DX İzmir](https://tadx.org/)                                                          | TRAC İzmir Şubesi’nin DX odaklı topluluğu; TA ülke çapında etkinlikler.                        |
+| [TAMSAT – Amatör Uydu Teknolojileri Derneği](https://www.tamsat.org.tr/) | Amatör uydu, APRS digipeater ve SDR projelerine odaklanan teknik dernek. |
+| [DARD81 – Düzce Amatör Radyo ve Telsizciler Derneği](https://dard81.org.tr/) | Düzce merkezli; FT8, APRS ve başlangıç rehberleri gibi zengin Türkçe eğitim içerikleriyle tanınır. |
 
 ---
 
@@ -80,11 +86,129 @@
 
 ---
 
+## Röle (Repeater) Listeleri ve Bant Planları
+
+| Bağlantı | Açıklama |
+| --- | --- |
+| [Amatör Telsizcilik – Röle Haritası](https://amatortelsizcilik.com.tr/harita) | 500+ güncel TA rölesinin frekans, CTCSS tonu ve konum bilgileriyle interaktif haritası. |
+| [Amatör Telsizcilik – VHF/UHF Bant Planı](https://amatortelsizcilik.com.tr/band-plani) | Türkiye VHF/UHF amatör bant planı; segment ve mod kullanımları. |
+| [ANTRAK Röle Bilgisi](https://antrak.org.tr/antrak-role-bilgisi/) | ANTRAK’ın işlettiği analog/DMR rölelerin güncel frekans ve ton bilgileri. |
+| [Türkiye Geneli Frekans Planı (TS5ZD)](https://www.ts5zd.com/2026/01/turkiye-geneli-amator-telsiz-frekans.html) | HF/VHF/UHF bant planı ile bölgesel röle ve simplex frekanslarını derleyen blog. |
+
+---
+
+## APRS Kaynakları
+
+| Bağlantı | Açıklama |
+| --- | --- |
+| [aprs.fi (Canlı Harita)](https://aprs.fi/) | Dünya genelinde APRS istasyon, obje ve hava durumu verilerini canlı haritada gösterir. |
+| [aprs.fi – Türkçe](https://tr.aprs.fi/) | aprs.fi’nin Türkçe arayüzü; çağrı işaretine göre konum sorgulama. |
+| [ANTRAK APRS](https://antrak.org.tr/aprs/) | Türkiye APRS ağı, digipeater/iGate yapısı ve 144.800 MHz kullanımı hakkında bilgi. |
+| [APRS Nedir? (amator.tr)](https://amator.tr/tutorials/aprs-nedir-nasil-kullanilir) | APRS’nin ne olduğu, konum izleme ve mesajlaşmanın kullanımına dair kapsamlı Türkçe rehber. |
+
+---
+
+## DMR ve Dijital Sesli Modlar
+
+| Bağlantı | Açıklama |
+| --- | --- |
+| [DMR Türkiye](https://www.dmrturkiye.com/) | Türkiye DMR topluluğu; kurulum rehberleri, röle listeleri ve haberler. |
+| [DMR Türkiye – Konuşma Grupları (TG)](https://www.dmrturkiye.com/konusma-gruplari/) | BrandMeister Türkiye Talkgroup (286…) listesi ve kullanım açıklamaları. |
+| [BrandMeister Hoseline](https://hose.brandmeister.network/) | Lisansınız olmasa bile tarayıcıdan DMR konuşma gruplarını canlı dinleyin. |
+| [Cep Telefonunda DMR: DroidStar (ARC)](https://radio.org.tr/cep-telefonunda-dmr-droidstar/) | DroidStar ile telefondan DMR / Fusion / D-STAR ağlarına bağlanma rehberi. |
+
+---
+
+## Dijital Modlar ve SDR Yazılımları
+
+| Bağlantı | Açıklama |
+| --- | --- |
+| [WSJT-X](https://wsjt.sourceforge.io/wsjtx.html) | FT8, FT4, JT65 gibi zayıf sinyal dijital modları için referans (ücretsiz) yazılım. |
+| [SDR# (SDRSharp)](https://airspy.com/download/) | Windows için en yaygın RTL-SDR / Airspy alıcı yazılımı. |
+| [SDR++](https://www.sdrpp.org/) | Çok platformlu, modern arayüzlü açık kaynak SDR alıcı yazılımı. |
+| [Gqrx SDR](https://gqrx.dk/) | Linux ve macOS için açık kaynak SDR alıcısı. |
+| [FT8 Nedir, Nasıl Başlanır? (DARD81)](https://dard81.org.tr/amator-telsizciligin-dijital-devrimi-ft8-nedir-ve-nasil-baslanir/) | FT8’e sıfırdan başlangıç için adım adım Türkçe rehber. |
+
+---
+
+## WebSDR / Çevrimiçi Alıcılar
+
+| Bağlantı | Açıklama |
+| --- | --- |
+| [WebSDR.org](http://www.websdr.org/) | Dünya genelindeki açık WebSDR alıcılarının dizini; tarayıcıdan HF/VHF dinleyin. |
+| [KiwiSDR Haritası](http://rx.linkfanel.net/) | Haritadan erişilebilen yüzlerce halka açık KiwiSDR alıcısı (0–30 MHz). |
+
+---
+
+## Log (Günlük) ve Yarışma Yazılımları
+
+| Bağlantı | Açıklama |
+| --- | --- |
+| [Log4OM](https://www.log4om.com/) | Ücretsiz, kapsamlı istasyon/QSO günlüğü; LoTW, QRZ, DX cluster ve CAT entegrasyonu. |
+| [N1MM Logger+](https://n1mmwp.hamdocs.com/) | Yarışma (contest) loglaması için en yaygın kullanılan ücretsiz yazılım. |
+
+---
+
+## Mors / CW Öğrenme
+
+| Bağlantı | Açıklama |
+| --- | --- |
+| [LCWO – Learn CW Online (Türkçe)](https://lcwo.net/tr/welcome) | Koch metoduyla çevrimiçi Mors öğrenme; ders, pratik ve MP3 üretimi (Türkçe arayüz). |
+| [Mors / CW Dersleri (MoEP, Türkçe)](https://marsonearthproject.org/mors-cw-dersleri-uygulamali-ve-turkce/) | Uygulamalı ve Türkçe, adım adım Mors ders dizisi. |
+
+---
+
+## Uydu Takibi ve Propagasyon
+
+| Bağlantı | Açıklama |
+| --- | --- |
+| [N2YO – Amatör Uydular](https://www.n2yo.com/satellites/?c=18) | Amatör uyduların gerçek zamanlı takibi ve geçiş (pass) tahminleri. |
+| [Heavens-Above](https://heavens-above.com/) | ISS ve uydu geçişleri için konum tabanlı detaylı geçiş tahminleri. |
+| [AMSAT](https://www.amsat.org/) | Amatör uydu topluluğu; uydu durumu, frekanslar ve takip araçları. |
+| [SatNOGS](https://satnogs.org/) | Açık kaynak küresel uydu yer istasyonu ağı; canlı gözlem ve veri arşivi. |
+| [VOACAP Online](https://www.voacap.com/hf/) | HF propagasyon tahmini; band ve saat bazında açılım analizi. |
+
+---
+
+## Aktivasyon Programları (POTA / SOTA / WWFF)
+
+| Bağlantı | Açıklama |
+| --- | --- |
+| [Parks on the Air (POTA)](https://parksontheair.com/) | Millî/tabiat parklarından portatif çalışma programı; aktivatör ve avcı (hunter) sistemi. |
+| [Summits on the Air (SOTA)](https://www.sota.org.uk/) | Dağ zirvelerinden portatif çalışma ve puanlama programı. |
+| [World Wide Flora & Fauna (WWFF)](https://wwff.co/) | Korunan doğa alanlarından portatif çalışma programı. |
+
+---
+
+## Forumlar, Portallar ve Eğitim
+
+| Bağlantı | Açıklama |
+| --- | --- |
+| [Radyo Amatörleri](https://www.radyoamatorleri.com/) | Türkiye’nin köklü amatör telsiz forum ve haber platformu; teknik rehberler ve Q kodları. |
+| [QRV73!](https://qrv73.com/) | Çevrimiçi radyo amatörleri platformu; ücretsiz araçlar, rehberler ve blog. |
+| [amator.tr](https://amator.tr/) | Modern, Türkçe amatör telsiz rehber ve öğrenme portalı. |
+| [Telsizciler.org](http://www.telsizciler.org/) | Belgeli radyo amatörleri için forum ve bilgi paylaşım sitesi. |
+| [Amatör Telsizci (TA1GP)](https://amatortelsizci.com/) | Başlangıç rehberleri ve TA Callbook kaydı gibi pratik içerikler. |
+
+---
+
+## Mevzuat / Resmî Kaynaklar
+
+| Bağlantı | Açıklama |
+| --- | --- |
+| [BTK – Amatör Telsizcilik](https://www.btk.gov.tr/amator-telsizcilik) | Bilgi Teknolojileri ve İletişim Kurumu’nun amatör telsizcilik teknik düzenlemeleri. |
+| [Kıyı Emniyeti Genel Müdürlüğü (KEGM)](https://www.kiyiemniyeti.gov.tr/) | Amatör telsizcilik sınavı, belge ve çağrı işareti işlemlerini yürüten resmî kurum. |
+| [Telsiz İşlemleri Yönetmeliği (mevzuat.gov.tr)](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=13226&MevzuatTur=7&MevzuatTertip=5) | Amatör telsizcilik dâhil telsiz işlemlerine ilişkin resmî yönetmelik metni. |
+| [Amatör Telsizcilik Nedir? (TRAC)](https://trac.org.tr/tr/amator-telsizcilik-nedir) | Amatör telsizciliğin tanımı, belge sınıfları ve başlangıç bilgileri. |
+
+---
+
 ## Çeşitli Kaynaklar
 
 | Bağlantı                                | Açıklama                                                                                              |
 | --------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | [Sigidwiki](https://www.sigidwiki.com/) | Deşifre etmek istediğiniz radyo sinyallerini tanımlamak için **kod çözme** ve modülasyon kılavuzları. |
+| [Amatör telsizcilik – Vikipedi](https://tr.wikipedia.org/wiki/Amat%C3%B6r_telsizcilik) | Amatör telsizciliğin tarihçesi, terimleri ve genel kavramları için Türkçe ansiklopedi maddesi. |
 
 ---
 
