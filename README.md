@@ -155,6 +155,7 @@
 | --- | --- |
 | [LCWO – Learn CW Online (Türkçe)](https://lcwo.net/tr/welcome) | Koch metoduyla çevrimiçi Mors öğrenme; ders, pratik ve MP3 üretimi (Türkçe arayüz). |
 | [Mors / CW Dersleri (MoEP, Türkçe)](https://marsonearthproject.org/mors-cw-dersleri-uygulamali-ve-turkce/) | Uygulamalı ve Türkçe, adım adım Mors ders dizisi. |
+| [MorseSnap (İngilizce)](https://morsesnap.com/) | Tarayıcıda ücretsiz Mors çevirici; sesli dinleme, alfabe tablosu, pratik ve ses dosyasından Mors çözme. |
 
 ---
 
